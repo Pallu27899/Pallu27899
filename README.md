@@ -1,5 +1,5 @@
 ### Hi there👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Pallavi+Bobale!;Java+Back-end+Development...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Pallavi+Bobale!;Java+Back-end+Developer...;" style="width: 100%;">
 
 
 
