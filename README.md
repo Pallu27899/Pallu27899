@@ -12,7 +12,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallu27899" alt="pallu27899" /></a> </p> -->
 
 
  💬 About me ...<br>
@@ -47,21 +46,15 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallu27899&show_icons=true&locale=en" alt="pallu27899" /></p>
-
-
 <!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallu27899&label=Profile%20views&color=0e75b6&style=flat" alt="pallu27899" />
-<a href="https://github.com/pallu27899?tab=followers"><img src="https://img.shields.io/github/followers/pallu27899?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-  <br/> -->
-  
-<!-- <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallu27899&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="pallu27899" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallu27899&layout=compact&border_radius=0" alt="pallu27899" height="139" />
-</p>
-<br/> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallu27899" alt="pallu27899" /></a> </p>
+ -->
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallu27899" alt="pallu27899" /></a> </p>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
- 
+
 <p align="">
     <a href="https://github.com/pallu27899github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pallavi Bobale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pallu27899&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -69,19 +62,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </p> 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- <details>	
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallu27899&theme=github_dark" alt="Pallavi's" align = "center"/></p>
-</details>
-<details>
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Pallavi" src="https://activity-graph.herokuapp.com/graph?username=pallu27899&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-</details>
-  <details>
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="left"> <a href="https://github.com/pallu27899"><img src="https://github-profile-trophy.vercel.app/?username=pallu27899&margin-w=5&theme=radical" alt="Pallavi" /></a> </p>
-</details>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> -->
 
 <h3>When not coding :</h3>
 Dancing <br>
