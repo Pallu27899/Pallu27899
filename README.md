@@ -28,6 +28,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </ul>
 
 - 📫 How to reach me **bobalepallavi@gmail.com**
+- 👨‍💻 Checkout my Portfolio [PallaviBobale](https://pallu27899.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,11 +53,23 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallu27899" alt="pallu27899" /></a> </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">   
+
+
+<br>
+<h2 align="center">📊 Leetcode Statistics<h2>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Pallu27899?ext=activity" />
+<br />
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+
 <a href="https://github.com/pallu27899/github-readme-activity-graph"><img alt="pallu27899's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pallu27899&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
- -->
+ 
+ 
 <p align="">
     <a href="https://github.com/pallu27899github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pallavi Bobale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pallu27899&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
