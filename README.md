@@ -33,7 +33,8 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </ul>
 
 - 📫 How to reach me **bobalepallavi@gmail.com**
-- 👨‍💻 Checkout my Portfolio [PallaviBobale](https://pallu27899.github.io/)
+- 👨‍💻 Checkout my Portfolio [Pallavi Bobale](https://pallu27899.github.io/)
+- 💻 Checkout my Resume [Pallavi_Bobale_Resume](https://drive.google.com/file/d/1w6r06jwvtDAXEjOYcfAWToIklpeBH0bN/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
